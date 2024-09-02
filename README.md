@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+eCommerce de Relojes es una tienda en línea creada con React y Vite, donde los usuarios pueden explorar y comprar una amplia gama de relojes de lujo. La página cuenta con un diseño moderno y responsivo, aprovechando la flexibilidad de Tailwind CSS para ofrecer una experiencia de usuario optimizada y elegante.
