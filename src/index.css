@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "FuentePersonalizada";
+  src: url(/public/font/HelveticaNowText-Light.ttf);
+}
+
+a {
+  font-family: FuentePersonalizada;
+  font-size: 20px;
+}
